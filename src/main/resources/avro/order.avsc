@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "name": "cardnumber",
+      "type": "string"
+    },
+    {
+      "name": "value",
+      "type": "int"
+    }
+  ],
+  "name": "order",
+  "namespace": "br.com.fiap.avro.order",
+  "type": "record"
+}
